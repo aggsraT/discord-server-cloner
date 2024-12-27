@@ -44,4 +44,4 @@ print("  ")
 async def on_ready():
     extrem_map = {}
     print(f"Logged In as : {client.user}")
-    print("Cloning Serve
+    print("Cloning S
