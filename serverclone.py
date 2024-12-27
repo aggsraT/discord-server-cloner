@@ -168,4 +168,4 @@ class Clone:
 
 
     @staticmethod
-    async def emojis_delete(guild_to: discord.Gui
+    async def emojis_delete(guild_to: discord
