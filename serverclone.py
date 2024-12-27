@@ -209,4 +209,4 @@ class Clone:
                 except:
                     print_error(f"Error While Changing Guild Icon: {guild_to.name}")
         except discord.Forbidden:
-            print_error(f"Error While Changing Guild
+            print_error(f"Error While Changing G
