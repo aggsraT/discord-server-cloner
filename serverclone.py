@@ -189,4 +189,4 @@ class Clone:
                     image=emoji_image)
                 print_add(f"Created Emoji {emoji.name}")
             except discord.Forbidden:
-                print_error(f"Error While Cr
+                print_error(f"Error Whil
