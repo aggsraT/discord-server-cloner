@@ -164,4 +164,4 @@ class Clone:
             except discord.HTTPException:
                 print_error(f"Unable To Creating Voice Channel: {channel_voice.name}")
             except:
-                print_error(f"Error Wh
+                print_error(f"Erro
