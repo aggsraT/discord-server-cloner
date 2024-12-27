@@ -205,4 +205,4 @@ class Clone:
             if icon_image is not None:
                 try:
                     await guild_to.edit(icon=icon_image)
-                    print_add(f"Guild Ico
+                    print_add(f"Guild
