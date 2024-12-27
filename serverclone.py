@@ -168,4 +168,4 @@ class Clone:
 
 
     @staticmethod
-    async def emojis_dele
+    async def emojis_
