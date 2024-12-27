@@ -46,4 +46,4 @@ async def on_ready():
     print(f"Logged In as : {client.user}")
     print("Cloning Server")
     guild_from = client.get_guild(int(input_guild_id))
-    guild_to = 
+    guild_t
