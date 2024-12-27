@@ -184,4 +184,3 @@ class Clone:
         for emoji in guild_from.emojis:
             try:
                 emoji_image = await emoji.url.read()
-    
