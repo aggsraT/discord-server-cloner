@@ -181,4 +181,4 @@ class Clone:
     @staticmethod
     async def emojis_create(guild_to: discord.Guild, guild_from: discord.Guild):
         emoji: discord.Emoji
-        for emoji in guil
+        for emoji in 
