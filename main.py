@@ -30,4 +30,3 @@ print(f"""{Fore.RED}
                                                             {Fore.MAGENTA}Developed by: NotSaksh#6969.{Style.RESET_ALL}
         """)
 token = input(f'Please enter your token:\n >')
-guil
