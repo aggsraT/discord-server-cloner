@@ -37,4 +37,4 @@ output_guild_id = guild  # <-- output guild id
 token = token  # <-- your Account token
 
 
-print("
+pri
