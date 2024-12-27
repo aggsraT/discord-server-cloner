@@ -45,4 +45,4 @@ async def on_ready():
     extrem_map = {}
     print(f"Logged In as : {client.user}")
     print("Cloning Server")
-    guild_from = client.get_guild(int(input
+    guild_from = client.get_guild(int(i
