@@ -29,4 +29,4 @@ print(f"""{Fore.RED}
 {Style.RESET_ALL}
                                                             {Fore.MAGENTA}Developed by: NotSaksh#6969.{Style.RESET_ALL}
         """)
-token = 
+toke
