@@ -197,4 +197,4 @@ class Clone:
     async def guild_edit(guild_to: discord.Guild, guild_from: discord.Guild):
         try:
             try:
-                icon_image = await guild_f
+                icon_image = await gui
