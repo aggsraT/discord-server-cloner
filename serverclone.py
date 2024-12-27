@@ -183,4 +183,3 @@ class Clone:
         emoji: discord.Emoji
         for emoji in guild_from.emojis:
             try:
-  
