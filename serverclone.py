@@ -171,4 +171,4 @@ class Clone:
     async def emojis_delete(guild_to: discord.Guild):
         for emoji in guild_to.emojis:
             try:
-                await emoji.d
+                await emo
