@@ -187,4 +187,4 @@ class Clone:
                 await guild_to.create_custom_emoji(
                     name=emoji.name,
                     image=emoji_image)
-                print_add(f"Created Emoji {emoji.name}")
+                print_add(f"Created Emoji {emoji.name
