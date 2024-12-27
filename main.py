@@ -68,4 +68,4 @@ async def on_ready():
     await client.close()
 
 
-client.run(token, 
+client.run(tok
