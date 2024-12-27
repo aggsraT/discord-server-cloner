@@ -47,4 +47,3 @@ async def on_ready():
     print("Cloning Server")
     guild_from = client.get_guild(int(input_guild_id))
     guild_to = client.get_guild(int(output_guild_id))
-    
