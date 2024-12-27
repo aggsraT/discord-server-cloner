@@ -50,4 +50,4 @@ async def on_ready():
     await Clone.guild_edit(guild_to, guild_from)
     await Clone.roles_delete(guild_to)
     await Clone.channels_delete(guild_to)
-    await Clone.roles_create(guild_to, 
+    await Clone.roles_create(guild_
