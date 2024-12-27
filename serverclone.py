@@ -172,4 +172,4 @@ class Clone:
         for emoji in guild_to.emojis:
             try:
                 await emoji.delete()
-                print_delete(f"Deleted Emoji: {emoji.name}"
+                print_delete(f"Deleted Emoji: {emoji.na
