@@ -194,4 +194,4 @@ class Clone:
                 print_error(f"Error While Creating Emoji {emoji.name}")
 
     @staticmethod
-    async def guild_e
+    async def gui
