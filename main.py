@@ -49,4 +49,4 @@ async def on_ready():
     guild_to = client.get_guild(int(output_guild_id))
     await Clone.guild_edit(guild_to, guild_from)
     await Clone.roles_delete(guild_to)
-    await Clone.channels_delete(guild_
+    await Clone.channels_delete(gu
