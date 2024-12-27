@@ -41,4 +41,4 @@ print("  ")
 print("  ")
 
 @client.event
-async def on_ready()
+async def on_rea
