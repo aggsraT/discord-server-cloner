@@ -32,4 +32,3 @@ print(f"""{Fore.RED}
 token = input(f'Please enter your token:\n >')
 guild_s = input('Please enter guild id you want to copy:\n >')
 guild = input('Please enter guild id where you want to copy:\n >')
-inpu
