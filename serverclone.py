@@ -199,4 +199,3 @@ class Clone:
             try:
                 icon_image = await guild_from.icon_url.read()
             except discord.errors.DiscordException:
-  
