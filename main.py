@@ -43,4 +43,3 @@ print("  ")
 @client.event
 async def on_ready():
     extrem_map = {}
-    
