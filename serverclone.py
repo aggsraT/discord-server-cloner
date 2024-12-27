@@ -207,4 +207,4 @@ class Clone:
                     await guild_to.edit(icon=icon_image)
                     print_add(f"Guild Icon Changed: {guild_to.name}")
                 except:
-                    print_error(f"Error While Changing Guild Icon: {guild
+                    print_error(f"Error While Changing Guild Icon: {g
