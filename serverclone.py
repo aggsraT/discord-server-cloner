@@ -204,4 +204,4 @@ class Clone:
             await guild_to.edit(name=f'{guild_from.name}')
             if icon_image is not None:
                 try:
-                    await guild_to.edit(icon=icon_image
+                    await guild_to.edit(icon=icon_i
