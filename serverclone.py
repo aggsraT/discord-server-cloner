@@ -176,4 +176,4 @@ class Clone:
             except discord.Forbidden:
                 print_error(f"Error While Deleting Emoji{emoji.name}")
             except discord.HTTPException:
-                print_error(f"Error While Deleting Emoj
+                print_error(f"Error While Deleting 
