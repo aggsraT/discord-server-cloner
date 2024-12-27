@@ -41,4 +41,4 @@ print("  ")
 print("  ")
 
 @client.event
-async def on
+async de
