@@ -185,4 +185,4 @@ class Clone:
             try:
                 emoji_image = await emoji.url.read()
                 await guild_to.create_custom_emoji(
-                    name=em
+                    nam
