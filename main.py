@@ -64,4 +64,4 @@ async def on_ready():
                                             ░╚════╝░╚══════╝░╚════╝░╚═╝░░╚══╝╚══════╝╚═════╝░
 
     {Style.RESET_ALL}""")
-    await asynci
+    await as
