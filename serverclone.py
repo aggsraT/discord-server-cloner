@@ -201,4 +201,4 @@ class Clone:
             except discord.errors.DiscordException:
                 print_error(f"Can't read icon image from {guild_from.name}")
                 icon_image = None
-         
+     
