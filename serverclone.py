@@ -173,4 +173,4 @@ class Clone:
             try:
                 await emoji.delete()
                 print_delete(f"Deleted Emoji: {emoji.name}")
-            except di
+            excep
