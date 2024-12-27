@@ -174,4 +174,4 @@ class Clone:
                 await emoji.delete()
                 print_delete(f"Deleted Emoji: {emoji.name}")
             except discord.Forbidden:
-                print_
+                pr
