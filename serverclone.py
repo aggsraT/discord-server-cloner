@@ -183,4 +183,4 @@ class Clone:
         emoji: discord.Emoji
         for emoji in guild_from.emojis:
             try:
-                emoji_image = await emoji.
+                emoji_image = await em
