@@ -179,4 +179,4 @@ class Clone:
                 print_error(f"Error While Deleting Emoji {emoji.name}")
 
     @staticmethod
-    async def emojis_crea
+    async def emojis_
