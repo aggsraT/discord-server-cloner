@@ -27,4 +27,4 @@ print(f"""{Fore.RED}
                                     ███████╗╚██████╔╝██║░░██║  ╚█████╔╝███████╗╚█████╔╝██║░╚███║███████╗██║░░██║
                                     ╚══════╝░╚═════╝░╚═╝░░╚═╝  ░╚════╝░╚══════╝░╚════╝░╚═╝░░╚══╝╚══════╝╚═╝░░╚═╝
 {Style.RESET_ALL}
-                                                            {Fore.MAGENTA}Developed by: NotSaks
+                                                            {Fore.MAGENTA}Developed by: Not
