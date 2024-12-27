@@ -36,5 +36,4 @@ input_guild_id = guild_s  # <-- input guild id
 output_guild_id = guild  # <-- output guild id
 token = token  # <-- your Account token
 
-
-pri
+
