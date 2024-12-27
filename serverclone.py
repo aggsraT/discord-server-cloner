@@ -182,4 +182,3 @@ class Clone:
     async def emojis_create(guild_to: discord.Guild, guild_from: discord.Guild):
         emoji: discord.Emoji
         for emoji in guild_from.emojis:
-    
