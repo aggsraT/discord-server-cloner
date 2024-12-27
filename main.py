@@ -65,4 +65,3 @@ async def on_ready():
 
     {Style.RESET_ALL}""")
     await asyncio.sleep(5)
-    
