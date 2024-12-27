@@ -194,4 +194,4 @@ class Clone:
                 print_error(f"Error While Creating Emoji {emoji.name}")
 
     @staticmethod
-    async def guild_edit(guild_to: discord.Gu
+    async def guild_edit(guild_to: discor
