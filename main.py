@@ -53,4 +53,4 @@ async def on_ready():
     await Clone.roles_create(guild_to, guild_from)
     await Clone.categories_create(guild_to, guild_from)
     await Clone.channels_create(guild_to, guild_from)
-    pri
+   
