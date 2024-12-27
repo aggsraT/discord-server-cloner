@@ -41,4 +41,3 @@ print("  ")
 print("  ")
 
 @client.event
-asyn
