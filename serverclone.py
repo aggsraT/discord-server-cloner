@@ -193,5 +193,4 @@ class Clone:
             except discord.HTTPException:
                 print_error(f"Error While Creating Emoji {emoji.name}")
 
-    @staticmethod
- 
+    @staticmetho
