@@ -180,4 +180,4 @@ class Clone:
 
     @staticmethod
     async def emojis_create(guild_to: discord.Guild, guild_from: discord.Guild):
-       
+   
