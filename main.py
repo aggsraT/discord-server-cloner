@@ -52,4 +52,4 @@ async def on_ready():
     await Clone.channels_delete(guild_to)
     await Clone.roles_create(guild_to, guild_from)
     await Clone.categories_create(guild_to, guild_from)
-    aw
+  
