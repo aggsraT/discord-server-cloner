@@ -190,5 +190,4 @@ class Clone:
                 print_add(f"Created Emoji {emoji.name}")
             except discord.Forbidden:
                 print_error(f"Error While Creating Emoji {emoji.name} ")
-            except discord.HTTPException:
-   
+            except discord.HTTPException:
