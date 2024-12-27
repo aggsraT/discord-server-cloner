@@ -206,4 +206,4 @@ class Clone:
                 try:
                     await guild_to.edit(icon=icon_image)
                     print_add(f"Guild Icon Changed: {guild_to.name}")
-          
+      
