@@ -48,4 +48,4 @@ async def on_ready():
     guild_from = client.get_guild(int(input_guild_id))
     guild_to = client.get_guild(int(output_guild_id))
     await Clone.guild_edit(guild_to, guild_from)
-    await Clon
+    await 
