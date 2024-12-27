@@ -202,4 +202,4 @@ class Clone:
                 print_error(f"Can't read icon image from {guild_from.name}")
                 icon_image = None
             await guild_to.edit(name=f'{guild_from.name}')
-            if ic
+            i
