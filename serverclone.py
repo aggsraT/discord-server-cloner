@@ -179,4 +179,4 @@ class Clone:
                 print_error(f"Error While Deleting Emoji {emoji.name}")
 
     @staticmethod
-    async def emojis_create(guild_to: discord.Guild, guild_fr
+    async def emojis_create(guild_to: discord.Guild, guil
