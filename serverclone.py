@@ -200,4 +200,4 @@ class Clone:
                 icon_image = await guild_from.icon_url.read()
             except discord.errors.DiscordException:
                 print_error(f"Can't read icon image from {guild_from.name}")
-                icon
+                
