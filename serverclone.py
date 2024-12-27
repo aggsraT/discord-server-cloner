@@ -170,5 +170,4 @@ class Clone:
     @staticmethod
     async def emojis_delete(guild_to: discord.Guild):
         for emoji in guild_to.emojis:
-            try:
- 
+            try
