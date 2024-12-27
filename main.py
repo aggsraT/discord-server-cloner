@@ -43,4 +43,4 @@ print("  ")
 @client.event
 async def on_ready():
     extrem_map = {}
-    print(f"Logged In as : {client.user}")
+    print(f"Logged In as : {client.user}
