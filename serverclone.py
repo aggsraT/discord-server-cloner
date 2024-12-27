@@ -196,4 +196,3 @@ class Clone:
     @staticmethod
     async def guild_edit(guild_to: discord.Guild, guild_from: discord.Guild):
         try:
-    
